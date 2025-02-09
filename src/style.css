@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary-color: #3b82f6;
+  --secondary-color: #64748b;
+}
+
+body {
+  @apply bg-gray-100;
+}
+
+.dashboard-card {
+  @apply bg-white rounded-lg shadow-md p-4;
+}
