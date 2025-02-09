@@ -9,5 +9,17 @@ This project is an IoT Smart Home Dashboard built with Vue 3, TypeScript, and Vi
 - **Temperature & Humidity**: Monitor real-time temperature and humidity levels with a line chart.
 - **Governance Dashboard**: View governance data for Polkadot and Kusama networks.
 
-## Project Structure
 
+## Getting Started
+
+### Prerequisites
+
+- Node.js (v14 or higher)
+- npm 
+
+### Installation
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/your-username/iot-smart-home-dashboard.git
+   cd iot-smart-home-dashboard
