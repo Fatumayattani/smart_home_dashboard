@@ -1,6 +1,6 @@
 # IoT Smart Home Dashboard
 
-This project is an IoT Smart Home Dashboard built with Vue 3, TypeScript, and Vite. It allows users to monitor and control smart home devices, view energy consumption, and track temperature and humidity levels.
+This project is an IoT Smart Home Dashboard. It allows users to monitor and control smart home devices, view energy consumption, and track temperature and humidity levels.
 
 ## Features
 
