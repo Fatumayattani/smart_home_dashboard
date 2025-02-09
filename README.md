@@ -21,5 +21,5 @@ This project is an IoT Smart Home Dashboard built with Vue 3, TypeScript, and Vi
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/iot-smart-home-dashboard.git
+   git clone https://github.com/Fatumayattani/smart_home_dashboard.git
    cd iot-smart-home-dashboard
